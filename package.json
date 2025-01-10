@@ -1,0 +1,22 @@
+{
+  "name": "hosting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loginmycode/hosting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loginmycode/hosting/issues"
+  },
+  "homepage": "https://github.com/loginmycode/hosting#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
